@@ -10,3 +10,11 @@
 [原生JavaScript获取移动设备初始化大小](https://github.com/xiaojugit/gist/blob/master/src/getInitZoom.js)<br>
 [原生JavaScript获取移动设备最大化大小](https://github.com/xiaojugit/gist/blob/master/src/getZoom.js)<br>
 [原生JavaScript获取移动设备屏幕宽度](https://github.com/xiaojugit/gist/blob/master/src/getScreenWidth.js)<br>
+[原生JavaScript实现字符串长度截取](https://github.com/xiaojugit/gist/blob/master/src/cutstr.js)<br>
+[原生JavaScript获取域名主机](https://github.com/xiaojugit/gist/blob/master/src/getHost.js)<br>
+[原生JavaScript清除空格](https://github.com/xiaojugit/gist/blob/master/src/trim.js)<br>
+[原生JavaScript替换全部](https://github.com/xiaojugit/gist/blob/master/src/replaceAll.js)<br>
+[原生JavaScript转义html标签](https://github.com/xiaojugit/gist/blob/master/src/HtmlEncode.js)<br>
+[原生JavaScript还原html标签](https://github.com/xiaojugit/gist/blob/master/src/HtmlDecode.js)<br>
+[原生JavaScript时间日期格式转换](https://github.com/xiaojugit/gist/blob/master/src/formatDate.js)<br>
+[原生JavaScript判断是否为数字类型](https://github.com/xiaojugit/gist/blob/master/src/formatDate.js)<br>
