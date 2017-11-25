@@ -17,4 +17,4 @@
 [原生JavaScript转义html标签](https://github.com/xiaojugit/gist/blob/master/src/HtmlEncode.js)<br>
 [原生JavaScript还原html标签](https://github.com/xiaojugit/gist/blob/master/src/HtmlDecode.js)<br>
 [原生JavaScript时间日期格式转换](https://github.com/xiaojugit/gist/blob/master/src/formatDate.js)<br>
-[原生JavaScript判断是否为数字类型](https://github.com/xiaojugit/gist/blob/master/src/formatDate.js)<br>
+[原生JavaScript判断是否为数字类型](https://github.com/xiaojugit/gist/blob/master/src/isDigit.js)<br>
